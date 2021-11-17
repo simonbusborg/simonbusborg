@@ -11,9 +11,4 @@ Spring/Summer, Bold Scandinavia, Hello Great Works / NoA Ignite, PS Communicatio
 
 <br />
 
- [![Linkedin: simonbusborg](https://img.shields.io/badge/-simonbusborg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://dk.linkedin.com/in/simonbusborg/)](https://dk.linkedin.com/in/simonbusborg) [![Twitter: simonbusborg](https://img.shields.io/twitter/follow/simonbusborg?style=social)](https://twitter.com/simonbusborg)
- 
-<br />
-
-WEAREHEAVY® 👉 [weareheavy.com](https://weareheavy.com)
-
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=simonbusborg?style=flat-square) [![Linkedin Badge](https://img.shields.io/badge/-simonbusborg-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simonbusborg/ "Connect on LinkedIn") [![Twitter Badge](https://img.shields.io/badge/-@simonbusborg-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=simonbusborg "Follow on Twitter")
