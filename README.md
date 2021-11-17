@@ -15,5 +15,3 @@ Spring/Summer, Bold Scandinavia, Hello Great Works / NoA Ignite, PS Communicatio
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simonbusborg&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonbusborg&layout=compact&count_private=true&theme=dark&hide_border=true)](https://github.com/simonbusborg/github-readme-stats)
- 
