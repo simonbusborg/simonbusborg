@@ -1,4 +1,4 @@
-# Simon Busborg 🇩🇰
+# Simon Busborg 🛸🇰
 #### Managing Partner and Creative Director at WEAREHEAVY®
 
 I'm a creative frontend developer and partner at WEAREHEAVY®. We started WEAREHEAVY® to create a space with freedom, fun & creativity. A playground for us to develop our skillsets and dive into new technologies.
