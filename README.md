@@ -12,5 +12,4 @@ I've been so fortunate to be working with some of the best in the field, includi
 Spring/Summer, Bold Scandinavia, Hello Great Works / NoA Ignite, PS Communication, Operate, Limbo Works, Kasper Laigaard Studio, Relax We Are The Good Guys, Fuhr Studio, Stupid Studio, Step
 
 <br />
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=simonbusborg?style=flat-square) [![Linkedin Badge](https://img.shields.io/badge/-simonbusborg-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simonbusborg/ "Connect on LinkedIn") [![Twitter Badge](https://img.shields.io/badge/-@simonbusborg-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=simonbusborg "Follow on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/-simonbusborg-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simonbusborg/ "Connect on LinkedIn") [![Twitter Badge](https://img.shields.io/badge/-@simonbusborg-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=simonbusborg "Follow on Twitter")
